@@ -2,6 +2,7 @@
 
 
 This repository includes a comprehensive Tableau analysis of Olympic data .
+
 ---
 
 ### **Dashboard 1 - Overview**
