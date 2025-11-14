@@ -5,7 +5,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
 
 ---
 
-### 1️⃣3️⃣ **Dashboard 1 - Overview**
+### **Dashboard 1 - Overview**
 - **Visualization Type:** Interactive dashboard
 - **Purpose:** Comprehensive overview of Olympic statistics
 - **Components:**
@@ -15,7 +15,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
   - Time series trends
 - **Interactivity:** Filters for year, country, sport, season
 
-### 1️⃣4️⃣ **Dashboard 2 - Deep Dive**
+### **Dashboard 2 - Deep Dive**
 - **Visualization Type:** Advanced analytical dashboard
 - **Purpose:** Detailed analysis with drill-down capabilities
 - **Components:**
@@ -27,7 +27,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
 
 ---
 
-### 🎨 Visualization Techniques Used
+### Visualization Techniques Used
 
 1. **Bar Charts** - Comparing medal counts across categories
 2. **Line Graphs** - Showing trends over Olympic years
@@ -44,7 +44,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
 
 ---
 
-### 🔍 Key Analytical Insights
+###  Key Analytical Insights
 
 #### Performance Patterns
 - Identification of historical Olympic powerhouses
@@ -68,7 +68,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
 
 ---
 
-### 📊 Tableau Features Demonstrated
+### Tableau Features Demonstrated
 
 1. **Data Connections** - Importing and preparing Olympics dataset
 2. **Calculated Fields** - Custom metrics and KPIs
@@ -87,7 +87,7 @@ This repository includes a comprehensive Tableau analysis of Olympic data .
 
 ---
 
-### 💡 Business Intelligence Value
+### Business Intelligence Value
 
 This Olympics analysis demonstrates:
 - **Exploratory Data Analysis** - Discovering patterns in sports data
